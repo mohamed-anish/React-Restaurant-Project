@@ -7,7 +7,7 @@ div form p{
     margin: 0px;
     width: auto;
     height: auto;
-    border: #ff0000 solid 1px;
+    border: red solid 1px;
     padding: 0px;
 }
 

@@ -1,0 +1,49 @@
+.Signup-Navbardiv{
+    /* text-align: center; */
+    width: 100%;
+    height:max-content;
+    border-radius: 5px;
+}
+
+.Signup-Navbar{
+    /* width: 75%; */
+    text-align: center;
+}
+
+.Signup-Navbar-list{
+    display: flex;
+    /* text-align: center; */
+}
+
+.Signup-Navbar-list li{
+    font-size: 20px;
+    /* background-color:yellow; */
+    border-radius: 10px;
+    padding:10px;
+    /* color: red; */
+    /* text-align: center; */
+    margin: 10px auto;
+    /* margin-top: 3px; */
+    position:sticky;
+    list-style: none;
+
+}
+
+.Signup-Navbar-list li:hover{background-color:yellow;}
+
+.signup-division{min-height: 90vh;background: linear-gradient(rgb(63, 91, 234),red);}
+
+.signup-table{margin: auto;border-radius: 20px;background-color: black;
+}
+
+.signup-table tr,td,label{
+    border-radius: 20px;
+    /* background-color: blue; */
+    font-size: 20px;
+    color: aqua;
+    padding: 20px 20px;
+}
+.signup-table input{
+    height: 30px;
+    width: 200px;
+}

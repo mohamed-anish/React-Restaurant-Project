@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div form p{
+    margin: 0px;
+    width: auto;
+    height: auto;
+    border: #ff0000 solid 1px;
+    padding: 0px;
+}
+
+table{
+    width: auto;
+    height: auto;
+    padding: 20px auto;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: black solid 2px;
+    text-align:left;
+}
+tr{text-align: center;}
+
+label{
+    text-align: right;
+    margin: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+input{
+    border: red 1px solid;
+    border-radius: 3px;
+    text-align:center ;
+    margin: 10px;
+}
+
+button{width:200px;
+       height: 30px;
+       border-radius: 5px;
+       margin-left: 400px;
+       
+}
